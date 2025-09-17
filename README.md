@@ -1,4 +1,4 @@
-# Bright Solutions RAG Chatbot 🤖✨
+# RAG AI Assistant 🤖✨
 
 Welcome to the **Bright Solutions RAG Chatbot** repository! This project showcases our customizable Retrieval-Augmented Generation (RAG) chatbot solution, designed to empower businesses, organizations, and firms with intelligent, AI-powered assistants. Whether you're looking to enhance customer support, provide instant answers from your company documents, or integrate a smart chatbot into your website, we've got you covered. 
 
@@ -72,7 +72,7 @@ If you're a developer exploring the code, follow the setup below.
 
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/Brights-Solution/PlugnBot
+   git clone https://github.com/syedamirhajawed-cmd/PlugnBot.git
    cd PlugnBot
    ```
 
